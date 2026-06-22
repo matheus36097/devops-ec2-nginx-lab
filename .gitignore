@@ -1,0 +1,16 @@
+# Terraform
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/*.tfplan
+terraform/tfplan
+
+# Chaves privadas
+*.pem
+*.ppk
+devops-lab-key
+id_rsa
+id_rsa.*
+
+# Sistema
+.DS_Store
